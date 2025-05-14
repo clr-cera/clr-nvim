@@ -19,5 +19,10 @@ return {
       "<cmd>NvimTreeToggle<cr>",
       desc = "Open file explorer",
     },
+    {
+      "<leader>t",
+      "<cmd>Today<cr>",
+      desc = "Open Today Note",
+    },
   },
 }
