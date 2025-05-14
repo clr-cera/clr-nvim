@@ -20,6 +20,8 @@ return {
         "go",
         "bash",
         "regex",
+        "sql",
+        "cpp",
       },
       sync_install = false,
       highlight = { enable = true },
